@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "typeRoots": [
+            "./node_modules/@types"
+        ],
+        "types": [
+            "node"
+        ],
+        "sourceMap": true,
+        "allowUnreachableCode": false,
+        "lib": [
+            "es2017"
+        ]
+    }
+}
