@@ -1,6 +1,5 @@
 import * as net from 'net';
 import * as os from 'os';
-import * as raw from 'raw-socket';
 import * as portscanner from 'portscanner';
 
 function byteToHexString(uint8arr: Uint8Array): string {
